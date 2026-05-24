@@ -1,6 +1,6 @@
 # BankManager - Application de Gestion Bancaire
 
-## 📝 Description du Projet
+##  Description du Projet
 Ce projet est une application console développée en **Java 21** mettant en pratique les concepts fondamentaux de la **Programmation Orientée Objet (POO)**. 
 
 L'objectif est de modéliser un système bancaire à travers une architecture de classes structurée, illustrant les piliers de la POO :
@@ -9,7 +9,7 @@ L'objectif est de modéliser un système bancaire à travers une architecture de
 
 ---
 
-## 🏛️ Architecture et Structure POO
+##  Architecture et Structure POO
 
 Le projet repose sur une classe mère et trois classes filles spécialisées :
 
@@ -24,7 +24,7 @@ Le projet repose sur une classe mère et trois classes filles spécialisées :
 
 ---
 
-## 📂 Structure des Fichiers
+## Structure des Fichiers
 
 Le projet utilise l'arborescence standardisée de **Maven** / **IntelliJ** :
 
